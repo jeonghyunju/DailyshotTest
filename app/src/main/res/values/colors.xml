@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainColor">#f29c2b</color>
+    <color name="searchBarColor">#EEEEEE</color>
+    <color name="lineColor">#a2a9af</color>
+    <color name="imageSlideColor">#994e505f</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyShotTest</string>
+
+    <string name="mainTitle">제휴점 리스트</string>
+    <string name="newItem">NEW</string>
+    <string name="listEnd">끝났습니다.</string>
+</resources>
